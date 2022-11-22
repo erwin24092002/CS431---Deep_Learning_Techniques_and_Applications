@@ -1,0 +1,1 @@
+Nhân_viên phục_vụ - hỏi món gì cũng không biết còn hay hết : lần đầu order món 1 , đợi 15 phút mới chạy ra báo hết , tới món thứ_hai thì mình phải đợi tới 30 phút mới được báo là hết , cancel luôn không ăn_uống gì nữa .

@@ -1,0 +1,4 @@
+order 6 món , 4 món được phục_vụ trong 10 '
+2 món còn lại được phục_vụ sau 30 ' , tổng_cộng là 40 ' chờ . Nếu bọn mình ko yêu_cầu huỷ order 2 món sau thì chắc là sẽ phải chờ lâu hơn_nữa
+ko 1 tiếng xin_lỗi , mình chỉ nhận đc câu " anh_chị thông_cảm ăn dùm em ạh "
+1 trong 2 món đem ra sau bị lỗi . Mì ý thịt nguội sốt kem KO_CÓ_KEM

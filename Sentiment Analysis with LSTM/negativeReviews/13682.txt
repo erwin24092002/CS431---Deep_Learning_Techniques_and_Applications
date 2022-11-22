@@ -1,0 +1,1 @@
+Gọi một ly Mocha nhỏ 50k , mà đưa ra cho mình 1 loại cafe sữa đơn_thuần . Mang_tiếng trong sân_bay mà làm tệ hết_sức . Nếu có đánh_giá dành của khách về quầy này mình sẽ đánh_giá mức thấp nhất . Ngồi ở đó 2 lần là y bực 2 lần .

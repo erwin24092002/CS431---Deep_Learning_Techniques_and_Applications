@@ -1,0 +1,3 @@
+Bánh ngon , có 2 loại : bánh_bao kim_sa và bánh_bao phomai .
+Nên gọi oder đặt bánh trước để khỏi phải đợi lâu và có thời_gian làm bánh nóng_hổi : )
+Địa_chỉ gần kiệt bánh_xèo bà dưỡng . Trời mưa ăn bánh_xèo xong ghé mua mấy cái bánh ăn tráng_miệng , còn gì tuyệt hơn .

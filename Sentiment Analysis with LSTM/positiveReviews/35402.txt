@@ -1,0 +1,5 @@
+không_gian : rộng_rãi , thoáng mát
+bãi xe : rộng , sức chứa hơn 20 chiếc xe
+phục_vụ : nhanh lẹ , nhiệt_tình
+thức_ăn : món nào cũng ngon , nêm nếm vừa_miệng , thức_ăn nóng_hổi vừa thổi vừa ăn : 3
+giá_cả : mềm , phù_hợp với sinh_viên học_sinh ^ ^

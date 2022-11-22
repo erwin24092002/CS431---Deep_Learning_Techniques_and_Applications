@@ -1,0 +1,1 @@
+Thấy trên foody gọi đặt_hàng thử cho cả phòng . Khi đặt_hàng đã hỏi có canh ko thì trả_lời là có canh rong_biển . Vậy_mà khi giao ko có canh cũng ko gọi báo lại gọi thắc_mắc thì trả_lời tỉnh_bơ . Làm_ăn vậy_thì ko bao_giờ quay lại .

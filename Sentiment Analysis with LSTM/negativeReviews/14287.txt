@@ -1,0 +1,1 @@
+Nhân_viên phục_vụ oder mà không biết món nào của bàn nào , cùng 1 món ăn nhưng khách đến sau thì lại được phục_vụ món ăn trước . Thậm_chí khi mình oder mang về , tính tiền xong hết rồi , ngồi đợi ở trên lầu lâu quá nên tranh_thủ đi xuống lấy luôn thì nghe được nhân_viên bếp nói là chưa có oder . Đề_nghị quán nên training lại nhân_viên phục_vụ .

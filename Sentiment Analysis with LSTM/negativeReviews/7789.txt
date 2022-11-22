@@ -1,0 +1,6 @@
+Mình đi nhóm 5 , gọi 2 món dimsum và 1 Vịt_Quay_Bắc_Kinh .
+Thất_vọng ở Vịt_Quay_Bắc_Kinh . Biết rằng các bạn sẽ chế_biến thành 3 món : Da giòn cuộn , Rang_Muối , Xào_Mì .
+Tuy_nhiên , chỉ chắc_chắn phần da là mang đầy_đủ cho khách . Ăn hết 3 món nhưng vẫn không thấy cánh và đùi .
+Gọi quản_lý đến hỏi thì cho 1 nhân_viên tự nhận là quản_lý đến ( Quản_lý mặc đồng_phục nhân_viên và trả_lời câu : Không quản_lý bếp ) . Có_thể các bạn đã lấy hết thịt phần đùi để chế_biến . OK mình chấp_nhận nhưng còn phần cánh , quản_lý bảo lấy thịt bỏ da , nhân_viên bảo lấy da và thịt luôn , cuối_cùng là ai đúng ? Nhưng thực_tế ăn thì ko thấy da và thịt cánh . Mình không giỏi làm_bếp nhưng cũng hiểu là phần cánh có đặc_điểm nhận_dạng thế_nào !
+Quan_trọng hơn là nhà_hàng lớn vậy không có quản_lý , chỉ kêu 1 nhân_viên trẻ tuổi ra tự_xưng là quản_lý .
+Hi_vọng các bạn tôn_trọng khách hơn .

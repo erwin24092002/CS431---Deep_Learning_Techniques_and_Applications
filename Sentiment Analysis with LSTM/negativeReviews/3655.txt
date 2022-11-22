@@ -1,0 +1,5 @@
+- phục_vụ lâu_lắc
+- ghi order sai , đem lên đem xuống
+- kêu 2 món , đem lên một xong rồi nhảy sang làm cho order của bàn khác
+- vị chả có gì đặc_sắc
+KHÔNG_QUAY_LẠI_LẦN_THỨ 2 !

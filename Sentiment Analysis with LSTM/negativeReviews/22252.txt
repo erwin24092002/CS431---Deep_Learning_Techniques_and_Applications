@@ -1,0 +1,1 @@
+Gọi 3 suất cơm gồm có : 1 suất dưa bò , 2 suất trứng và thêm 1 chai nước suối . Kêu tính tiến : nhân_viên tính 3 suất x 50k + 10k nước suối = 160k , bà chủ chạy ra kêu 3 suất dưa bò 150k , suất trứng kêu thêm 50k , nước suối 10k = 210k . Bực_mình trả luôn 210k nhưng thề không_bao_giờ thèm quay lại cái quán này nữa .

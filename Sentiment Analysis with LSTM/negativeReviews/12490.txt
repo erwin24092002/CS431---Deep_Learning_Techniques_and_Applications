@@ -1,0 +1,1 @@
+Hic . Check in thấy foody được giảm 20% nhưng đến khi thanh_toán thì lại không được giảm , nhân_viên nói chưa dùng hề thống này

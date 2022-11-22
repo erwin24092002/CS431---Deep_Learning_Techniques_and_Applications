@@ -1,0 +1,2 @@
+Nhân_viên bán hàng quá rập_khuôn theo quy_định .
+Mình order giao hàng với khoảng_cách < 3.7km trong khi quy_định # 3km . Nhân_viên từ_chối thẳng_thừng mà không cần hỏi đến giá_trị đơn hàng hoặc có_thể y / c thêm KH như_thế_nào .
